@@ -10,6 +10,9 @@ packages = [{include = "django_rest"}]
 python = "3.9.9"
 Django = "^4.1.2"
 djangorestframework = "^3.14.0"
+django-mysql = "^4.7.1"
+django-redis = "^5.2.0"
+mysqlclient = "^2.1.1"
 
 
 [build-system]
